@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250314 21:36:15,url
+20250315 07:48:05,url
 
 
 freetv_other,#genre#
@@ -577,8 +577,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 永嘉新闻综合频道,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
 永城新闻综合频道,https://stream1.freetv.fun/yong-cheng-xin-wen-zong-he-1.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-15.m3u8
-求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-17.m3u8
-求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-3.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-4.m3u8
 汕尾新闻综合,https://stream1.freetv.fun/shan-wei-xin-wen-zong-he-2.m3u8
 江苏城市,https://stream1.freetv.fun/jiang-su-cheng-shi-1.ctv
@@ -612,6 +610,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 浙江|新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-2.m3u8
 浙江|萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-5.m3u8
+浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-11.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-2.m3u8
@@ -717,7 +716,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
 湖州娱乐,https://stream1.freetv.fun/hu-zhou-yu-le-1.m3u8
-漳州新闻综合,https://stream1.freetv.fun/zhang-zhou-xin-wen-zong-he-3.m3u8
 琿春新聞綜合,https://stream1.freetv.fun/hun-chun-xin-wen-zong-he-3.m3u8
 生命電視台,https://stream1.freetv.fun/sheng-ming-dian-shi-1.m3u8
 生命電視台,https://stream1.freetv.fun/sheng-ming-dian-shi-2.m3u8
@@ -785,7 +783,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-6.m3u8
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-1.m3u8
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-2.m3u8
-福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-3.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-1.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-4.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-5.m3u8
