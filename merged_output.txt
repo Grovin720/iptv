@@ -1,10 +1,8 @@
 更新时间,#genre#
-20250314 09:15:56,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
-关于本源(iptv365.org),https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
+20250314 09:15:56,https://AMChls.wns.live/hls/stream.m3u8
 (百)每日一首,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
 (宝)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 (箱)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
-(箱)音乐欣赏,http://61.221.215.25:8800/hls/58/index.m3u8
 
 💓专享央视,#genre#
 CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
