@@ -564,7 +564,7 @@ def get_random_url(file_path):
     # 随机返回一个URL
     return random.choice(urls) if urls else None
 
-daily_mtv="(百)每日一首,"+get_random_url('assets/今日推荐.txt')
+daily_mtv="随机一首,"+get_random_url('assets/今日推荐.txt')
 
 # 获取当前的 UTC 时间
 utc_time = datetime.now(timezone.utc)
@@ -573,17 +573,17 @@ beijing_time = utc_time + timedelta(hours=8)
 # 格式化为所需的格式
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
-about_video1="https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4"
-about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
+about_video1="https://vd2.bdstatic.com/mda-qjm643um5svwn7tv/sc/cae_h264/1729578016987191644/mda-qjm643um5svwn7tv.mp4"
+about_video2="https://vd3.bdstatic.com/mda-qmrim5t1gezfj0kc/1080p/cae_h264/1735218797095444997/mda-qmrim5t1gezfj0kc.mp4"
 version=formatted_time+","+about_video1
-about="关于本源(iptv365.org),"+about_video2
+about="八段锦-Grovin,"+about_video2
 # 瘦身版
 # 
-all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt')+ ['\n'] +\
-             ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
-             ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
+all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt')+ ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
+             ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
+             ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
              ["💓AKTV🚀📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
@@ -607,11 +607,11 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+re
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 # ["🧨2025春晚🧨,#genre#"] + read_txt_to_array('专区/2025春晚.txt') + ['\n'] + \             
-all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt') + ['\n'] +\
-             ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
-             ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
+all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
+             ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
+             ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
              ["💓AKTV🚀📶,#genre#"] + read_txt_to_array('专区/AKTV.txt') + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
@@ -819,9 +819,9 @@ def make_m3u(txt_file, m3u_file, m3u_file_copy):
                     output_text += f"{channel_url}\n"
 
         with open(f"{m3u_file}", "w", encoding='utf-8') as file:
-            file.write(output_text)
+            文件。write(output_text)
         with open(f"{m3u_file_copy}", "w", encoding='utf-8') as file:
-            file.write(output_text)
+            文件。write(output_text)
 
         print(f"M3U文件 '{m3u_file}' 生成成功。")
         print(f"M3U文件 '{m3u_file_copy}' 生成成功。")
