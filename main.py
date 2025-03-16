@@ -576,7 +576,7 @@ formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 about_video1="https://vd2.bdstatic.com/mda-qjm643um5svwn7tv/sc/cae_h264/1729578016987191644/mda-qjm643um5svwn7tv.mp4"
 about_video2="https://vd3.bdstatic.com/mda-qmrim5t1gezfj0kc/1080p/cae_h264/1735218797095444997/mda-qmrim5t1gezfj0kc.mp4"
 version=formatted_time+","+about_video1
-about="八段锦-Grovin,"+about_video2
+about="八段锦-Grovin,"+about_video1
 # 瘦身版
 # 
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt')+ ['\n'] + \
