@@ -1,4 +1,8 @@
-每日一练,http://61.221.215.25:8800/hls/58/index.m3u8
+每日一练,https://vd2.bdstatic.com/mda-qjm643um5svwn7tv/sc/cae_h264/1729578016987191644/mda-qjm643um5svwn7tv.mp4
+史上最美八段锦,https://vd2.bdstatic.com/mda-qmrjf20ihu0kv4g5/1080p/cae_h264/1735221146722158724/mda-qmrjf20ihu0kv4g5.mp4
+体育总局推广版,https://vd2.bdstatic.com/mda-qmrim5zkc82z0byz/1080p/cae_h264/1735219029090207033/mda-qmrim5zkc82z0byz.mp4
+健身气功八段锦,https://vd2.bdstatic.com/mda-qmrim5k9pabfhzez/1080p/cae_h264/1735219137518066687/mda-qmrim5k9pabfhzez.mp4
+八部长寿功跟练版,https://vd2.bdstatic.com/mda-qmrjhye18pqk6yje/360p/h264/1735220841506952361/mda-qmrjhye18pqk6yje.mp4
+八部金刚功镜像版,https://vd2.bdstatic.com/mda-qmrjhy72nm3akjmk/360p/h264/1735220835200809027/mda-qmrjhy72nm3akjmk.mp4
 MovieMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 AMC音乐欣赏,https://AMChls.wns.live/hls/stream.m3u8
-
