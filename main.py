@@ -857,6 +857,37 @@ print(f"blacklist行数: {combined_blacklist_hj} ")
 print(f"merged_output.txt行数: {all_lines_hj} ")
 print(f"others_output.txt行数: {other_lines_hj} ")
 
+import json
+
+# 定义 live.txt 文件路径
+live_txt_path = 'live.txt'
+
+try:
+    # 读取 live.txt 文件内容
+    with open(live_txt_path, 'r', encoding='utf-8') as txt_file:
+        lines = txt_file.readlines()
+        # 去除每行末尾的换行符
+        lines = [line.strip() for line in lines]
+
+    # 构建 JSON 数据结构，假设以 "channels" 作为键
+    json_data = {"channels": lines}
+
+    # 获取 live.txt 文件所在目录
+    live_dir = os.path.dirname(live_txt_path)
+    # 定义 g.json 文件路径
+    g_json_path = os.path.join(live_dir, 'g.json')
+
+    # 将数据写入 g.json 文件
+    with open(g_json_path, 'w', encoding='utf-8') as json_file:
+        # 确保中文正确编码，并且缩进为 4 个空格
+        json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+
+    print(f"JSON 文件 '{g_json_path}' 生成成功。")
+
+except FileNotFoundError:
+    print(f"未找到 '{live_txt_path}' 文件。")
+except Exception as e:
+    print(f"保存为 JSON 文件时发生错误: {e}")
 
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
