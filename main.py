@@ -819,9 +819,9 @@ def make_m3u(txt_file, m3u_file, m3u_file_copy):
                     output_text += f"{channel_url}\n"
 
         with open(f"{m3u_file}", "w", encoding='utf-8') as file:
-            文件。write(output_text)
+            file.write(output_text)
         with open(f"{m3u_file_copy}", "w", encoding='utf-8') as file:
-            文件。write(output_text)
+            file.write(output_text)
 
         print(f"M3U文件 '{m3u_file}' 生成成功。")
         print(f"M3U文件 '{m3u_file_copy}' 生成成功。")
