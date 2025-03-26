@@ -819,9 +819,9 @@ def make_m3u(txt_file, m3u_file, m3u_file_copy):
                     output_text += f"{channel_url}\n"
 
         with open(f"{m3u_file}", "w", encoding='utf-8') as file:
-            文件.write(output_text)
+            文件。write(output_text)
         with open(f"{m3u_file_copy}", "w", encoding='utf-8') as file:
-            文件.write(output_text)
+            文件。write(output_text)
 
         print(f"M3U文件 '{m3u_file}' 生成成功。")
         print(f"M3U文件 '{m3u_file_copy}' 生成成功。")
@@ -861,4 +861,3 @@ print(f"others_output.txt行数: {other_lines_hj} ")
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
-
