@@ -64,6 +64,7 @@
 凤凰中文,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
 凤凰中文,https://hls-gateway.vpstv.net/streams/476959.m3u8
 凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
+凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -117,6 +118,7 @@
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰资讯,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
 凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
@@ -239,7 +241,6 @@ TVB明珠,http://r.jdshipin.com/ZQ4kN
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://cdn6.163189.xyz/163189/mzt
 TVB明珠,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
-TVB明珠,https://cdn.qd.je/163189/mzt
 TVB明珠,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -309,7 +310,6 @@ TVB无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 TVB无线新闻,https://hls-gateway.vpstv.net/streams/708884.m3u8
 TVB无线新闻,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
 TVB无线新闻,https://hls-gateway.vpstv.net/streams/476926.m3u8
-TVB无线新闻,https://cdn6.cc.cd/163189/wxxwt
 TVB无线新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 TVB无线新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -389,7 +389,6 @@ NOW新闻,https://cdn.123.rr.kg/163189/now
 NOW新闻,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,https://hls-gateway.vpstv.net/streams/477070.m3u8
-NOW新闻,https://cdn.qd.je/163189/now
 NOW财经,https://hls-gateway.vpstv.net/streams/477534.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
@@ -400,7 +399,6 @@ TVBS新闻,https://test.946985.filegear-sg.me/proxy/aeeed2eb197331b1
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS新闻台
 TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8
-TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
@@ -427,7 +425,6 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 TVBS欢乐,https://test.946985.filegear-sg.me/proxy/84820d3dc03cb8b7
 TVBS欢乐,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS欢乐台
 TVBS欢乐,https://hls-gateway.vpstv.net/streams/477068.m3u8
-TVBS欢乐,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
@@ -509,7 +506,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 八大综艺,https://tv.iill.top/litv/4gtv-4gtv039
 三立iNEWS,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立iNEWS
 三立新闻iNEWS,https://test.946985.filegear-sg.me/proxy/00de5aa900efc4a6
-三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 三立新闻iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -539,7 +535,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 三立综合,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=vrp4No&tk=SLK5QjnsRiya
 三立综合,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立综合台
 三立综合,https://hls-gateway.vpstv.net/streams/476257.m3u8
-三立综合,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 三立综合,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
@@ -591,7 +586,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天新闻
 中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8
-中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -635,7 +629,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 中视新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=BPKZgZ&tk=SLK5QjnsRiya
 中视新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视新闻
 中视新闻,http://173.208.234.146/live/ctvnews.m3u8
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
 中视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 中视新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074
@@ -692,7 +685,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 民视新闻,https://test.946985.filegear-sg.me/proxy/479c35ac28aa5673
 民视新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=3dTB8k&tk=SLK5QjnsRiya
 民视新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
-民视新闻,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
 民视新闻,http://live4play.uk/livehttpplay?channel_id=20097
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -707,7 +699,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 民视台湾,https://test.946985.filegear-sg.me/proxy/4f5c2cf340ccf1e4
 民视台湾,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
 民视台湾,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视台湾台
-民视台湾,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784702901150
 民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视台湾,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 民视台湾,https://tv.iill.top/litv/4gtv-4gtv001
@@ -720,7 +711,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 民视第一,http://ip1.xiaomidadi.cn:8088/live/vnr8miLNxI7tlvjD/hls.m3u8
 民视第一,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视第一台
 民视第一,http://173.208.234.146/live/ftvdy.m3u8
-民视第一,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784702901150
 民视第一,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一,http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 民视第一,https://tv.iill.top/litv/4gtv-4gtv003
@@ -738,7 +728,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 民视综艺,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=MjnYUP&tk=SLK5QjnsRiya
 民视综艺,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视综艺台
 民视综艺,https://hls-gateway.vpstv.net/streams/476242.m3u8
-民视综艺,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
 民视综艺,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 民视综艺,https://tv.iill.top/litv/4gtv-4gtv004
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
@@ -764,7 +753,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 寰宇新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
 寰宇新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻
 寰宇新闻,https://hls-gateway.vpstv.net/streams/476270.m3u8
-寰宇新闻,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
 寰宇新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -780,7 +768,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 澳门莲花,https://cdn6.cc.cd/163189/amlh
 澳门莲花,http://ip1.xiaomidadi.cn:8088/live/7RCF6kilR4EMfmge/hls.m3u8
 澳门莲花,https://hls-gateway.vpstv.net/streams/476223.m3u8
-澳门莲花,https://cdn.qd.je/163189/amlh
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,http://php.jdshipin.com/amlh.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
@@ -792,7 +779,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 东森新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv152&token=https://t.me/GPT_858
 东森新闻,https://test.946985.filegear-sg.me/proxy/666a3149098342a0
 东森新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=Ijw0HC&tk=SLK5QjnsRiya
-东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
 东森新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
@@ -815,7 +801,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 东森超视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9639&tk=e640d0a1bf70
 东森财经新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv153&token=https://t.me/GPT_858
 东森财经新闻,https://test.946985.filegear-sg.me/proxy/f12538d1a3c40515
-东森财经新闻,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
 东森财经新闻,https://tv.iill.top/litv/4gtv-4gtv153
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
@@ -835,7 +820,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 华视新闻,https://test.946985.filegear-sg.me/proxy/db5de5d676197e66
 华视新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=3pLPQH&tk=SLK5QjnsRiya
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
-华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
 华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 华视新闻,https://tv.iill.top/litv/4gtv-4gtv052
 镜电视新闻,https://tv.iill.top/litv/4gtv-4gtv075
@@ -844,7 +828,6 @@ RTHK32,https://fast.hidns.vip/163189/rthk32
 RTHK32,https://cdn.123.rr.kg/163189/rthk32
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK32,http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK32
-RTHK32,https://cdn.qd.je/163189/rthk32
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
