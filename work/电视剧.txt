@@ -15,6 +15,7 @@
 笑傲江湖,http://1.94.31.214:35455/huya/23865142
 笑傲江湖,http://124.248.69.76:26781/huya/23865142
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
+封神榜,http://1.14.124.206:35455/huya/29465849
 新白娘子传奇,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1354490667
 济公,https://vip.ffzy-play7.com/20230201/12988_7e8795e3/2000k/hls/mixed.m3u8
 宝莲灯前传,https://live.ottiptv.cc/yy/1354931631
@@ -30,6 +31,7 @@
 上海滩,https://leshiyuncdn.36s.top/20240427/ltqnLEqH/2000kb/hls/index.m3u8
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
+陀枪师姐,http://1.14.124.206:35455/huya/29465857
 陀枪师姐,https://live.iill.top/huya/23860039
 陀枪师姐,http://124.248.69.76:26781/huya/23860039
 狂飙,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1354936131
@@ -45,3 +47,4 @@
 神探狄仁杰2,http://124.248.69.76:26781/huya/11342425
 康熙微服私访记,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1352811698
 笑傲江湖-电视剧,https://live.ottiptv.cc/yy/1354936128
+大唐双龙传,http://1.14.124.206:35455/huya/29465850
