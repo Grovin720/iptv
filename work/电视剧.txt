@@ -10,7 +10,6 @@
 士兵突击,https://live.ottiptv.cc/yy/1382851600
 士兵突击,https://live.ottiptv.cc/yy/1382768483
 士兵突击,https://live.ottiptv.cc/huya/11342430
-士兵突击,https://live.metshop.top/huya/11342430
 士兵突击,https://live.iill.top/huya/11342430
 士兵突击,http://cdn.jdshipin.com:8880/huya.php?id=11342430
 勇敢的心,http://live.nctv.top/huya.php?id=11602037
@@ -28,12 +27,12 @@
 神雕侠侣,http://live.nctv.top/huya.php?id=11352964
 神雕侠侣,https://live.ottiptv.cc/huya/11352964
 神雕侠侣,https://live.iill.top/huya/11352964
-倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,http://8.155.43.98:35455/huya/11342403
 倚天屠龙记,http://222.186.39.21:35466/huya/11342403
 倚天屠龙记,http://39.153.130.167:35455/huya/11342403
 倚天屠龙记,http://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://live.ottiptv.cc/yy/33300793
+倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://live.iill.top/huya/23734246
 倚天屠龙记,http://124.248.69.76:26781/huya/23734246
 雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
@@ -129,8 +128,8 @@
 隋唐英雄传,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1352475619
 隋唐英雄传,http://live.ottiptv.cc/yy/1352475619
 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
-陈情令,https://live.ottiptv.cc/huya/29465862
 陈情令,https://live.ottiptv.cc/yy/1382745121
+陈情令,https://live.ottiptv.cc/huya/29465862
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 公主嫁到,https://live.ottiptv.cc/yy/1382736915
 上海滩,https://leshiyuncdn.36s.top/20240427/ltqnLEqH/2000kb/hls/index.m3u8
@@ -138,11 +137,10 @@
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 上海滩,https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
-大时代,https://lbds.us.ci/23865161
 大时代,https://live.metshop.top/huya/23865161
 法证先锋,https://live.ottiptv.cc/yy/1354930939
-陀枪师姐,https://live.metshop.top/huya/29465857
 陀枪师姐,https://lbds.us.ci/29465857
+陀枪师姐,https://live.metshop.top/huya/29465857
 陀枪师姐,http://live.nctv.top/huya.php?id=29465855
 陀枪师姐,http://1.14.124.206:35455/huya/29465857
 陀枪师姐,https://live.iill.top/huya/23860039
@@ -215,6 +213,7 @@
 83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
 三国演义【1994】,https://live.ottiptv.cc/yy/1354930932
 大江大河2-高分影视推荐,https://live.ottiptv.cc/yy/1382736797
+剧集_士兵突击,https://lbds.us.ci/11342430
 剧集_士兵突击,http://live.nctv.top/huya.php?id=11342430
 剧集_新三国,https://lbds.us.ci/11352944
 剧集_新三国,http://live.nctv.top/huya.php?id=11352944
