@@ -205,8 +205,6 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
@@ -217,6 +215,7 @@
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4563&tk=e640d0a1bf70
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5022&tk=e503191f8e20
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5577&tk=e640d0a1bf70
@@ -229,6 +228,7 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1971&tk=e640d0a1bf70
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4017&tk=7877e7cc41c7
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
 翡翠台,https://stream1.freetv.fun/fei-cui-9.m3u8
 翡翠台,https://stream1.freetv.fun/fei-cui-2.ctv
